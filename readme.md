@@ -263,4 +263,4 @@ TODO
 
 想做一个小小的实验，如果你觉得我的分享值得一丢丢打赏的话，可以考虑微信打赏我。谢谢！
 
-![打赏](/https://github.com/wahyd4/work-in-australia/blob/master/wepay.jpg)
+![打赏](https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg)
