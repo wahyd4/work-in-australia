@@ -324,7 +324,7 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 我自己的感受是，对于小朋友的福利还是不错的，目前还不太清楚的是 CC 是否需有补助的问题，关系重大，需要后面在花时间弄清楚。好了关于签证差不多就这些吧，祝愿大家一切顺利，早日拿到你们自己想去国家的 VISA。
 
-![Visa](https://github.com/wahyd4/work-in-australia/raw/master/images/visa.png)
+![Visa](https://github.com/wahyd4/work-in-australia/raw/master/images/visa.jpg)
 ## 三个月的感悟
 
 TODO
