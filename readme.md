@@ -21,6 +21,7 @@
     - [Linkedin](#linkedin)
     - [猎头](#%E7%8C%8E%E5%A4%B4)
     - [自己找一些 IT 公司的网站](#%E8%87%AA%E5%B7%B1%E6%89%BE%E4%B8%80%E4%BA%9B-it-%E5%85%AC%E5%8F%B8%E7%9A%84%E7%BD%91%E7%AB%99)
+    - [一些可能提供签证的公司](#%E4%B8%80%E4%BA%9B%E5%8F%AF%E8%83%BD%E6%8F%90%E4%BE%9B%E7%AD%BE%E8%AF%81%E7%9A%84%E5%85%AC%E5%8F%B8)
   - [面试](#%E9%9D%A2%E8%AF%95)
     - [电话初试](#%E7%94%B5%E8%AF%9D%E5%88%9D%E8%AF%95)
     - [笔试作业](#%E7%AC%94%E8%AF%95%E4%BD%9C%E4%B8%9A)
@@ -192,7 +193,25 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 整个找工作的过程，其实很多时候得看运气。因为即使暂时的不如意，也请不要灰心和失望。有时候可以多投一些，有时候也需要对自己的简历进行一些整理和优化再投。
 有时候对方公司或者猎头你给你回复，不是你不够优秀，而且对方公司不提供工作签证。
 
+### 一些可能提供签证的公司
+
+下面推荐一些比较大的，而且可能会提供签证的公司的职位列表页面。不过还是提示大家，看清楚人家的职位要求哈。
+
+* **Atlassian**: <https://www.atlassian.com/company/careers/all-jobs>
+* **Myob**: <https://www.myob.com/au/careers>
+* **Envato**: <https://envato.com/careers/>
+* **Redbubble**: <https://careers.redbubble.com/jobs>
+* **Aconex**: <https://www.aconex.com/careers/>
+* **Rea**: <http://careers.realestate.com.au/opportunities/>
+* **canva**: <https://about.canva.com/careers/sydney/>
+* **Telstra**: <https://careers.telstra.com/explore-jobs>
+
+如果你知道其他公司提供工作签证的话，欢迎 `pull request`， 让更多的朋友收益。
+
+> 别乱投简历，别搞到对方公司都讨厌我们中国人了哈，还是希望我们自己要准备自己，也尊重人家
+
 > 真诚建议： 在投简历的时候不要使用自己的 `QQ` 邮箱，最推荐的就是 `Gmail` 或者 `Hotmail`。简历里面写自己的手机号码时记得加`+86`
+
 
 ## 面试
 
