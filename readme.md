@@ -211,6 +211,7 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 * **Rea**: <http://careers.realestate.com.au/opportunities/>
 * **canva**: <https://about.canva.com/careers/sydney/>
 * **Telstra**: <https://careers.telstra.com/explore-jobs>
+* **Safetyculture**: <https://safetyculture.com/careers/>
 
 如果你知道其他公司提供工作签证的话，欢迎 `pull request`， 让更多的朋友收益。
 
