@@ -429,6 +429,6 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 **图文咨询：1 小时 200 块人民币，语音沟通:1 小时 500 块人民币**
 
-以下是的微信二维码，添加请说明目的，咨询请先微信转账。咨询以外目的，还请谅解我暂时不接受。
+以下是我的微信二维码，添加请说明目的，咨询请先微信转账。咨询以外目的，还请谅解我暂时不接受。
 
 <img width="240" alt="qrcode" src="https://github.com/wahyd4/work-in-australia/raw/master/images/my-qrcode.jpg">
