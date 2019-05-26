@@ -402,7 +402,8 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 想做一个小小的实验，如果你觉得我的分享值得一丢丢打赏的话，可以考虑微信打赏我。谢谢！影响了大家的阅读体验，不好意思。
 
-![打赏](https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg)
+
+<img width="200" alt="redpocket" src="https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg">
 
 # 微信一对一咨询
 
@@ -412,4 +413,4 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 以下是的微信二维码，添加请说明目的，咨询请先微信转账。咨询以外目的，还请谅解我暂时不接受。
 
-![微信二维码](https://github.com/wahyd4/work-in-australia/raw/master/images/my-qrcode.jpg)
+<img width="240" alt="qrcode" src="https://github.com/wahyd4/work-in-australia/raw/master/images/my-qrcode.jpg">
