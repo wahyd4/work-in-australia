@@ -403,8 +403,13 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 ---
 
 # 来澳洲生活后的感想
+欢迎你登陆澳洲，如果你来墨尔本，一起来喝杯啤酒，聊聊吧。😀
 
-请前往 [Issues](https://github.com/wahyd4/work-in-australia/issues)
+![Melbourne](https://github.com/wahyd4/work-in-australia/raw/master/melbourne.jpeg)
+
+![Melbourne Night](https://github.com/wahyd4/work-in-australia/raw/master/melbourne-night.jpeg)
+
+关于来澳洲之后的分享和感想，请前往 [Issues](https://github.com/wahyd4/work-in-australia/issues)
 
 # 欢迎提 Issue 交流
 
