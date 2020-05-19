@@ -37,8 +37,14 @@
 - [欢迎提 Issue 交流](#欢迎提-issue-交流)
 - [微信打赏](#微信打赏)
 
+> 2020年初的时候在在一个朋友的工作室做了一个关于视频的采访，内容大部分和文字一致，不想看文字的同学欢迎观看视频。
+
+<a href="https://www.bilibili.com/video/BV1Kp4y1y7ds?from=timeline&isappinstalled=0" target="_blank"><img width="800" alt="Melbourne" src="https://raw.githubusercontent.com/wahyd4/work-in-australia/master/images/undraw_video_files_fu10.png">
+
+Youtube 地址[点这里](https://www.youtube.com/watch?v=UE4Th2GnA54)
+
 这是一篇我基于我自己在 2017 年准备和面试的经历的回忆和分享，作为一件发生在大半年前的事情，我会尽量将这之后我自己的一些思考与总结也写出来。
-之所以一直没有写，一则自己觉得小事一桩，不值一提；二则怕自己写不好，反而给大家一些不好的影响。直到几天前（2018 年三月）在 V2EX 看到一个关于出国工作的[帖子](https://www.v2ex.com/t/427404?p=1#r_5281265)，自己回复了一些内容，也看到很多人对于我的回复很感兴趣，对于出国工作这件事本身也很好奇。终还是决定写点什么。
+之所以一直没有写，一则自己觉得小事一桩，不值一提；二则怕自己写不好，反而给大家一些不好的影响。直到几天前（2018 年三月）在 V2EX 看到一个关于出国工作 的[帖子](https://www.v2ex.com/t/427404?p=1#r_5281265)，自己回复了一些内容，也看到很多人对于我的回复很感兴趣，对于出国工作这件事本身也很好奇。终还是决定写点什么。
 
 ## 你想要什么
 
@@ -424,4 +430,3 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 
 <img width="200" alt="redpocket" src="https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg">
-
