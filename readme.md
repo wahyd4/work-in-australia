@@ -37,7 +37,7 @@
 - [欢迎提 Issue 交流](#欢迎提-issue-交流)
 - [微信打赏](#微信打赏)
 
-> 2020年初的时候在在一个朋友的工作室做了一个关于视频的采访，内容大部分和文字一致，不想看文字的同学欢迎观看视频。
+> 2020年初的时候在一个朋友的工作室做了一个视频的分享，内容大部分和本篇文章文字一致，不想看文字的同学欢迎观看视频。
 
 <a href="https://www.bilibili.com/video/BV1Kp4y1y7ds?from=timeline&isappinstalled=0" target="_blank"><img width="300" alt="Melbourne" src="https://raw.githubusercontent.com/wahyd4/work-in-australia/master/images/undraw_video_files_fu10.png">
 
