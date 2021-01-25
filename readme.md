@@ -1,6 +1,7 @@
 # 如何到澳洲工作
 
-![Page Views Count](https://badge.home.toozhao.com/svg/work-in-australia)
+[![Page Views Count](https://badges.toozhao.com/svg/work-in-australia)](https://badges.toozhao.com/stats/work-in-australia)
+
 - [如何到澳洲工作](#如何到澳洲工作)
   - [你想要什么](#你想要什么)
     - [越来越堵的上班路](#越来越堵的上班路)
