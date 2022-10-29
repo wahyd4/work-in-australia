@@ -38,6 +38,7 @@
 - [来澳洲生活后的感想](#来澳洲生活后的感想)
 - [欢迎提 Issue 交流](#欢迎提-issue-交流)
 - [微信打赏](#微信打赏)
+- [付费咨询](#付费咨询)
 
 > 2020年初的时候在一个朋友的工作室做了一个视频的分享，内容大部分和本篇文章文字一致，不想看文字的同学欢迎观看视频。
 
@@ -432,3 +433,7 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 
 <img width="200" alt="redpocket" src="https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg">
+
+## 付费咨询
+
+是的，我提供一对一付费咨询，请查看 https://github.com/wahyd4/work-in-australia/issues/41
