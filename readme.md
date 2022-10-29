@@ -428,7 +428,7 @@ Linkedin 做招聘不太久，上面也有一些职位，但是和 seek 类似�
 
 # 微信打赏
 
-想做一个小小的实验，如果你觉得我的分享值得一丢丢打赏的话，可以考虑微信打赏我。谢谢！影响了大家的阅读体验，不好意思。
+想做一个小小的实验，如果你觉得我的分享值得一丢丢打赏的话，可以考虑微信打赏我。谢谢！
 
 
 <img width="200" alt="redpocket" src="https://github.com/wahyd4/work-in-australia/raw/master/wepay.jpg">
