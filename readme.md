@@ -219,6 +219,12 @@ Stackvoerflow Jobs， 上面的职位很少，但是质量都是很高，而且�
 - **canva**: <https://about.canva.com/careers/sydney/>
 - **Telstra**: <https://careers.telstra.com/explore-jobs>
 - **Safetyculture**: <https://safetyculture.com/careers/>
+- **Sportsbet**: <https://careers.sportsbet.com.au/home>
+- **Servian**: <https://www.servian.com/careers/>
+- **Siteminder**: <https://www.siteminder.com/jobs/>
+- **Fabric**: <https://fabric.inc/careers/>
+- **RestiveTech**: <https://www.restivetech.com.au/job-vacancies/>
+
 
 如果你知道其他公司提供工作签证的话，欢迎 `pull request`， 让更多的朋友受益。
 
