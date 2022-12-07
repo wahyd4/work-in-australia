@@ -187,8 +187,8 @@ Google Hangouts 的话，就需要保障你的 VPN 是稳定可靠了。
 
 Jora 是 Seek 集团下面的一个小的创业公司，他们主要提供职位索引，他们会把很多常见的 IT 公司的招聘页面抓取进来。在这里你可以搜索到一些没有通过 Seek 发布的职位。
 
-### Stackoverflow Jobs
-
+### ~~Stackoverflow Jobs~~
+`更新：经网友提醒，该平台已经关闭`
 Stackvoerflow Jobs， 上面的职位很少，但是质量都是很高，而且你可以直接筛选`offer relocation` 和`sponsor visa` 的选项。我是通过这样最终找到工作的。
 
 ### Linkedin
