@@ -2,6 +2,8 @@
 
 [![Page Views Count](https://badges.toozhao.com/svg/work-in-australia)](https://badges.toozhao.com/stats/work-in-australia)
 
+> 最近我开始写新的闲言碎语[Live in AU居住在澳洲](https://github.com/wahyd4/live-in-au/discussions)，我会尽量做到一周多更，欢迎大家来围观讨论。
+
 - [如何到澳洲工作](#如何到澳洲工作)
   - [你想要什么](#你想要什么)
     - [越来越堵的上班路](#越来越堵的上班路)
